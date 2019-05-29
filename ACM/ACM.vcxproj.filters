@@ -13,16 +13,34 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="源文件\1">
+      <UniqueIdentifier>{8b0060e8-137f-47b3-8877-fe667c832d80}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="4A.cpp">
-      <Filter>源文件</Filter>
+    <ClCompile Include="158A.cpp">
+      <Filter>源文件\1</Filter>
     </ClCompile>
     <ClCompile Include="1A.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="4A.cpp">
+      <Filter>源文件\1</Filter>
     </ClCompile>
     <ClCompile Include="71A.cpp">
-      <Filter>源文件</Filter>
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="118A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="231A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="50A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="282A.cpp">
+      <Filter>源文件\1</Filter>
     </ClCompile>
   </ItemGroup>
 </Project>

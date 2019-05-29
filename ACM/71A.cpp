@@ -5,7 +5,7 @@
 
 using namespace std;
 
-int main()
+int A71()
 {
 	string word;
 	string result;
