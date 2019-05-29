@@ -115,14 +115,23 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="112A.cpp" />
     <ClCompile Include="118A.cpp" />
     <ClCompile Include="158A.cpp" />
     <ClCompile Include="1A.cpp" />
     <ClCompile Include="231A.cpp" />
+    <ClCompile Include="281A.cpp" />
     <ClCompile Include="282A.cpp" />
+    <ClCompile Include="339A.cpp" />
     <ClCompile Include="4A.cpp" />
     <ClCompile Include="50A.cpp" />
     <ClCompile Include="71A.cpp" />
+    <ClCompile Include="96A.cpp" />
+    <ClCompile Include="util.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class.h" />
+    <ClInclude Include="util.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

@@ -16,6 +16,9 @@
     <Filter Include="源文件\1">
       <UniqueIdentifier>{8b0060e8-137f-47b3-8877-fe667c832d80}</UniqueIdentifier>
     </Filter>
+    <Filter Include="源文件\util">
+      <UniqueIdentifier>{11eda6a1-336c-4753-af59-24fc1280f407}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="158A.cpp">
@@ -42,5 +45,28 @@
     <ClCompile Include="282A.cpp">
       <Filter>源文件\1</Filter>
     </ClCompile>
+    <ClCompile Include="112A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="96A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="339A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="281A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="util.cpp">
+      <Filter>源文件\util</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="class.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="util.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
   </ItemGroup>
 </Project>
