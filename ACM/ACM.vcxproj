@@ -116,15 +116,21 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="112A.cpp" />
+    <ClCompile Include="116A.cpp" />
     <ClCompile Include="118A.cpp" />
     <ClCompile Include="158A.cpp" />
+    <ClCompile Include="158B.cpp" />
     <ClCompile Include="1A.cpp" />
     <ClCompile Include="231A.cpp" />
+    <ClCompile Include="236A.cpp" />
+    <ClCompile Include="263A.cpp" />
+    <ClCompile Include="266A.cpp" />
     <ClCompile Include="281A.cpp" />
     <ClCompile Include="282A.cpp" />
     <ClCompile Include="339A.cpp" />
     <ClCompile Include="4A.cpp" />
     <ClCompile Include="50A.cpp" />
+    <ClCompile Include="58B.cpp" />
     <ClCompile Include="71A.cpp" />
     <ClCompile Include="96A.cpp" />
     <ClCompile Include="util.cpp" />

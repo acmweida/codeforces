@@ -60,6 +60,24 @@
     <ClCompile Include="util.cpp">
       <Filter>源文件\util</Filter>
     </ClCompile>
+    <ClCompile Include="263A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="266A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="236A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="116A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="158B.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="58B.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class.h">

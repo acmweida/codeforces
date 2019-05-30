@@ -1,12 +1,8 @@
 #include<iostream>
 #include<string>
+#include "util.h"
 using namespace std;
-char TO_UPPER(char  c) {
-	if (c >= 'a') {
-		c -= 32;
-	}
-	return c;
-}
+
 
 int A281() {
 	string word;
