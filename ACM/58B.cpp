@@ -2,7 +2,7 @@
 #include<string>
 using namespace std;
 
-int main() {
+int B58() {
 	int k = 0;
 	char hello[] = { 'h','e','l','l','o' };
 	string   str;
