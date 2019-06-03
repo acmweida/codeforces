@@ -135,6 +135,33 @@
     <ClCompile Include="486A.cpp">
       <Filter>源文件\1</Filter>
     </ClCompile>
+    <ClCompile Include="148A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="318A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="208A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="734A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="344A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="677A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="405A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="61A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
+    <ClCompile Include="469A.cpp">
+      <Filter>源文件\1</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class.h">

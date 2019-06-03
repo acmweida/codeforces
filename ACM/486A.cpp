@@ -3,7 +3,7 @@
 #include<algorithm>
 #include<string>
 using namespace std;
-int main() {
+int A486() {
 	long long int n;
 	long long int  sum;
 	while (cin >> n) {

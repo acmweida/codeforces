@@ -1,4 +1,6 @@
+#include<string.h>
 #include "class.h"
+using namespace std;
 #ifndef UTIL_H
 #define UTIL_H
 void printInt(int *arr, int lenth);    //输出Int数组
@@ -23,4 +25,6 @@ void RANDOMIZED_QUICKSORT(int* arr, int p, int r); //随机化版本快速排序:
 int RANDOMIZED_SELECT(int* arr, int p, int r, int i); //获取第几大数
 char TO_UPPER(char c);
 char TO_LOWER(char c);
+string&   replace_all(string&   str, const   string&   old_value, const   string&   new_value);// 字符串替换，替换结果再替换:
+string&   replace_all_distinct(string&   str, const   string&   old_value, const   string&   new_value);// 字符串替换，替换结果不再替换:
 #endif //UTIL_H

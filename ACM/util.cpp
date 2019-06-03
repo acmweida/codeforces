@@ -3,6 +3,7 @@
 #include "limits.h"
 #include "class.h"
 #include <stdlib.h>
+#include<string>
 
 /*
 	Author: 2456910384@qq.com
@@ -536,4 +537,36 @@ char TO_LOWER(char  c) {
 		c += 32;
 	}
 	return c;
+}
+
+
+/*
+Name:  replace_all
+	Description :  ×Ö·û´®Ìæ»»£¬Ìæ»»½á¹ûÔÙÌæ»»:
+	Date : 03 - 06 - 19
+*/
+string&   replace_all(string&   str, const   string&   old_value, const   string&   new_value)
+{
+	while (true) {
+		string::size_type   pos(0);
+		if ((pos = str.find(old_value)) != string::npos)
+			str.replace(pos, old_value.length(), new_value);
+		else   break;
+	}
+	return   str;
+}
+
+/*
+Name:  replace_all_distinct 
+	Description :  ×Ö·û´®Ìæ»»£¬Ìæ»»½á¹û²»ÔÙÌæ»»:
+	Date : 03 - 06 - 19
+*/
+string&   replace_all_distinct(string&   str, const   string&   old_value, const   string&   new_value)
+{
+	for (string::size_type pos(0); pos != string::npos; pos += new_value.length()) {
+		if ((pos = str.find(old_value, pos)) != string::npos)
+			str.replace(pos, old_value.length(), new_value);
+		else   break;
+	}
+	return   str;
 }
