@@ -4,7 +4,7 @@
 #include<string.h>
 #include<string>
 using namespace std;
-int main() {
+int A271() {
 	int n,temp;
 	int dis[10] = {0,0,0,0,0,0,0,0,0,0};
 	cin >> n;

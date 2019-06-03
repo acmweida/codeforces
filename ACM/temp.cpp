@@ -13,7 +13,7 @@ int main() {
 	getchar();
 	return 0;
 }
-
+memset(a,0,sizeof(a));
 cout << "YES" << endl;
 cout << "NO" << endl;
 */
