@@ -189,6 +189,15 @@
     <ClCompile Include="489B.cpp">
       <Filter>源文件\2</Filter>
     </ClCompile>
+    <ClCompile Include="327A.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="313B.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
+    <ClCompile Include="698A.cpp">
+      <Filter>源文件\2</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="class.h">

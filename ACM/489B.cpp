@@ -7,7 +7,7 @@
 using namespace std;
 
 
-int main() {
+int B489() {
 
 	int m, n;
 	int boy[102];
